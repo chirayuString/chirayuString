@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chirayu Jain
-- 👀 I’m interested in open source contibution
+- 👀 I’m interested in open source contribution
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking for collaboration
 - 📫 How to reach me chirayu0423@gmail.com
